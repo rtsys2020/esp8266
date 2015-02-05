@@ -1,0 +1,24 @@
+{
+  "ap": [
+    {
+      "id": 1,
+      "name": "default",
+      "password": "pass@word123"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "baz",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "qux",
+      "postId": 2
+    }
+  ],
+  "post": [],
+  "id": [],
+  "posts": []
+}

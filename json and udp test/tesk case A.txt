@@ -1,0 +1,174 @@
+ab -n 500 -c 1 -p ap.json http://192.168.1.5/ap?info=wifi
+This is ApacheBench, Version 2.3 <$Revision: 1638069 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 192.168.1.5 (be patient)
+Completed 100 requests
+Completed 200 requests
+Completed 300 requests
+Completed 400 requests
+Completed 500 requests
+Finished 500 requests
+
+
+Server Software:        lwIP/1.4.0
+Server Hostname:        192.168.1.5
+Server Port:            80
+
+Document Path:          /ap?info=wifi
+Document Length:        0 bytes
+
+Concurrency Level:      1
+Time taken for tests:   13.359 seconds
+Complete requests:      500
+Failed requests:        0
+Total transferred:      28500 bytes
+Total body sent:        96000
+HTML transferred:       0 bytes
+Requests per second:    37.43 [#/sec] (mean)
+Time per request:       26.719 [ms] (mean)
+Time per request:       26.719 [ms] (mean, across all concurrent requests)
+Transfer rate:          2.08 [Kbytes/sec] received
+                        7.02 kb/s sent
+                        9.10 kb/s total
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        4   10  10.1      7     115
+Processing:     9   16   7.8     14     113
+Waiting:        5   10   5.0      8      50
+Total:         14   26  13.7     22     145
+
+Percentage of the requests served within a certain time (ms)
+  50%     22
+  66%     25
+  75%     27
+  80%     30
+  90%     37
+  95%     49
+  98%     72
+  99%     94
+ 100%    145 (longest request)
+
+ 
+ //////////////////////////////////////////////////////////////////////////////////////////////
+ 
+ab -n 500 -c 2 -p ap.json http://192.168.1.5/ap?info=wifi
+This is ApacheBench, Version 2.3 <$Revision: 1638069 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 192.168.1.5 (be patient)
+Completed 100 requests
+Completed 200 requests
+Completed 300 requests
+Completed 400 requests
+Completed 500 requests
+Finished 500 requests
+
+
+Server Software:        lwIP/1.4.0
+Server Hostname:        192.168.1.5
+Server Port:            80
+
+Document Path:          /ap?info=wifi
+Document Length:        0 bytes
+
+Concurrency Level:      2
+Time taken for tests:   8.469 seconds
+Complete requests:      500
+Failed requests:        0
+Total transferred:      28500 bytes
+Total body sent:        96000
+HTML transferred:       0 bytes
+Requests per second:    59.04 [#/sec] (mean)
+Time per request:       33.876 [ms] (mean)
+Time per request:       16.938 [ms] (mean, across all concurrent requests)
+Transfer rate:          3.29 [Kbytes/sec] received
+                        11.07 kb/s sent
+                        14.36 kb/s total
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        5   12   8.2     11     121
+Processing:    11   21   8.3     19      78
+Waiting:        8   16   7.5     14      63
+Total:         18   33  11.8     31     133
+
+Percentage of the requests served within a certain time (ms)
+  50%     31
+  66%     33
+  75%     35
+  80%     37
+  90%     42
+  95%     55
+  98%     72
+  99%     78
+ 100%    133 (longest request)
+ 
+ ///////////////////////////////////////////////////////////
+ ab -n 500 -c 4 -p ap.json http://192.168.1.5/ap?info=wifi
+This is ApacheBench, Version 2.3 <$Revision: 1638069 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 192.168.1.5 (be patient)
+Completed 100 requests
+Completed 200 requests
+Completed 300 requests
+Completed 400 requests
+Completed 500 requests
+Finished 500 requests
+
+
+Server Software:        lwIP/1.4.0
+Server Hostname:        192.168.1.5
+Server Port:            80
+
+Document Path:          /ap?info=wifi
+Document Length:        0 bytes
+
+Concurrency Level:      4
+Time taken for tests:   38.634 seconds
+Complete requests:      500
+Failed requests:        1
+   (Connect: 1, Receive: 0, Length: 0, Exceptions: 0)
+Total transferred:      28500 bytes
+Total body sent:        96000
+HTML transferred:       0 bytes
+Requests per second:    12.94 [#/sec] (mean)
+Time per request:       309.075 [ms] (mean)
+Time per request:       77.269 [ms] (mean, across all concurrent requests)
+Transfer rate:          0.72 [Kbytes/sec] received
+                        2.43 kb/s sent
+                        3.15 kb/s total
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        5   34  29.7     24     228
+Processing:    28  232 1620.7     85   21057
+Waiting:       20  227 1620.0     82   21057
+Total:         40  266 1620.8    117   21089
+
+Percentage of the requests served within a certain time (ms)
+  50%    117
+  66%    144
+  75%    173
+  80%    204
+  90%    271
+  95%    327
+  98%    374
+  99%    448
+ 100%  21089 (longest request)
+ //////////////////////////////////////////////////////////
+ ab -n 100 -c 5 -p ap.json http://192.168.1.5/ap?info=wifi
+This is ApacheBench, Version 2.3 <$Revision: 1638069 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 192.168.1.5 (be patient)...
+Test aborted after 10 failures
+
+apr_socket_connect(): Connection timed out (730060)
+Total of 44 requests completed

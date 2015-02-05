@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="windows-1256" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-02-02T16:24:40</date>
+  <millis>1422881680348</millis>
+  <sequence>1</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Load saved settings...</message>
+</record>
+<record>
+  <date>2015-02-02T16:24:40</date>
+  <millis>1422881680692</millis>
+  <sequence>2</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Set new color theme: Success.</message>
+</record>
+<record>
+  <date>2015-02-02T16:24:40</date>
+  <millis>1422881680707</millis>
+  <sequence>3</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Load saved settings: DONE.</message>
+</record>
+<record>
+  <date>2015-02-02T16:24:40</date>
+  <millis>1422881680707</millis>
+  <sequence>4</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Snippets (LUA): loading...</message>
+</record>
+<record>
+  <date>2015-02-02T16:24:40</date>
+  <millis>1422881680707</millis>
+  <sequence>5</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Snippets (LUA) load: Success.</message>
+</record>
+<record>
+  <date>2015-02-02T16:24:41</date>
+  <millis>1422881681114</millis>
+  <sequence>6</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Scan system...</message>
+</record>
+<record>
+  <date>2015-02-02T16:24:41</date>
+  <millis>1422881681114</millis>
+  <sequence>7</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Could not find any serial port. Please, connect device and ReScan</message>
+</record>
+<record>
+  <date>2015-02-02T16:24:41</date>
+  <millis>1422881681129</millis>
+  <sequence>8</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Scan done.</message>
+</record>
+<record>
+  <date>2015-02-02T16:26:45</date>
+  <millis>1422881805519</millis>
+  <sequence>9</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Scan system...</message>
+</record>
+<record>
+  <date>2015-02-02T16:26:45</date>
+  <millis>1422881805519</millis>
+  <sequence>10</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>found last saved serial port COM4</message>
+</record>
+<record>
+  <date>2015-02-02T16:26:45</date>
+  <millis>1422881805519</millis>
+  <sequence>11</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Scan done.</message>
+</record>
+<record>
+  <date>2015-02-02T16:26:47</date>
+  <millis>1422881807503</millis>
+  <sequence>12</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Serial port COM4 save as default.</message>
+</record>
+<record>
+  <date>2015-02-02T16:26:47</date>
+  <millis>1422881807503</millis>
+  <sequence>13</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Baud rate 9600 save as default.</message>
+</record>
+<record>
+  <date>2015-02-02T16:26:47</date>
+  <millis>1422881807503</millis>
+  <sequence>14</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Try to open port COM4, baud 9600, 8N1</message>
+</record>
+<record>
+  <date>2015-02-02T16:26:47</date>
+  <millis>1422881807636</millis>
+  <sequence>15</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Open port COM4 - Success.</message>
+</record>
+<record>
+  <date>2015-02-02T16:26:51</date>
+  <millis>1422881811855</millis>
+  <sequence>16</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>send:AT&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-02-02T16:26:54</date>
+  <millis>1422881814620</millis>
+  <sequence>17</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>send:AT&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-02-02T16:27:03</date>
+  <millis>1422881823120</millis>
+  <sequence>18</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>send:AT+CWQAP&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-02-02T16:27:14</date>
+  <millis>1422881834511</millis>
+  <sequence>19</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>send:AT+CWJAP="default","pass@word123"&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-02-02T16:27:47</date>
+  <millis>1422881867590</millis>
+  <sequence>20</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>send:AT+CWQAP&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-02-02T16:28:17</date>
+  <millis>1422881897778</millis>
+  <sequence>21</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>send:AT+CWJAP="default","pass@word123"&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-02-02T16:29:09</date>
+  <millis>1422881949841</millis>
+  <sequence>22</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>send:AT+CWQAP&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-02-02T16:29:12</date>
+  <millis>1422881952247</millis>
+  <sequence>23</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>send:AT+CWJAP="default","pass@word123"&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-02-02T16:29:43</date>
+  <millis>1422881983044</millis>
+  <sequence>24</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>send:AT+CWJAP?&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-02-02T16:29:45</date>
+  <millis>1422881985107</millis>
+  <sequence>25</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>send:AT+CWJAP?&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-02-02T16:29:46</date>
+  <millis>1422881986310</millis>
+  <sequence>26</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>send:AT+CWJAP?&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-02-02T16:29:47</date>
+  <millis>1422881987825</millis>
+  <sequence>27</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>send:AT+CWJAP?&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-02-02T16:30:07</date>
+  <millis>1422882007873</millis>
+  <sequence>28</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>send:AT+CWJAP="default","pass@word1234"&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-02-02T16:30:33</date>
+  <millis>1422882033279</millis>
+  <sequence>29</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>send:AT+CWJAP="default","pass@word123"&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-02-02T16:31:26</date>
+  <millis>1422882086670</millis>
+  <sequence>30</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>send:AT+CWJAP?&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-02-02T16:31:28</date>
+  <millis>1422882088170</millis>
+  <sequence>31</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>send:AT+CWQAP&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-02-02T16:31:44</date>
+  <millis>1422882104436</millis>
+  <sequence>32</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>send:AT+CWJAP="default","pass@word123"&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-02-02T16:32:15</date>
+  <millis>1422882135046</millis>
+  <sequence>33</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>send:AT+CWJAP="default","pass@word123"&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-02-02T16:32:26</date>
+  <millis>1422882146155</millis>
+  <sequence>34</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>send:AT+CWJAP="default","pass@word123"&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-02-02T16:32:36</date>
+  <millis>1422882156140</millis>
+  <sequence>35</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>send:AT+CWJAP="default","pass@word123"&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-02-02T16:32:51</date>
+  <millis>1422882171468</millis>
+  <sequence>36</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>send:AT+CWJAP?&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-02-02T16:32:56</date>
+  <millis>1422882176984</millis>
+  <sequence>37</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>send:AT+CWQAP&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-02-02T16:32:58</date>
+  <millis>1422882178718</millis>
+  <sequence>38</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>send:AT+CWJAP="default","pass@word123"&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-02-02T16:33:31</date>
+  <millis>1422882211500</millis>
+  <sequence>39</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Close port COM4 - Success.</message>
+</record>
+<record>
+  <date>2015-02-02T16:37:05</date>
+  <millis>1422882425838</millis>
+  <sequence>40</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Serial port COM4 save as default.</message>
+</record>
+<record>
+  <date>2015-02-02T16:37:05</date>
+  <millis>1422882425838</millis>
+  <sequence>41</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Baud rate 9600 save as default.</message>
+</record>
+<record>
+  <date>2015-02-02T16:37:05</date>
+  <millis>1422882425838</millis>
+  <sequence>42</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Try to open port COM4, baud 9600, 8N1</message>
+</record>
+<record>
+  <date>2015-02-02T16:37:05</date>
+  <millis>1422882425854</millis>
+  <sequence>43</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Open port COM4 - Success.</message>
+</record>
+<record>
+  <date>2015-02-02T16:37:08</date>
+  <millis>1422882428041</millis>
+  <sequence>44</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>send:AT&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-02-02T16:37:09</date>
+  <millis>1422882429260</millis>
+  <sequence>45</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>send:AT&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-02-02T16:37:23</date>
+  <millis>1422882443713</millis>
+  <sequence>46</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Close port COM4 - Success.</message>
+</record>
+<record>
+  <date>2015-02-02T16:45:40</date>
+  <millis>1422882940235</millis>
+  <sequence>47</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>DataSender: Serial port not open, operation FAILED.</message>
+</record>
+<record>
+  <date>2015-02-02T16:45:42</date>
+  <millis>1422882942641</millis>
+  <sequence>48</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Serial port COM4 save as default.</message>
+</record>
+<record>
+  <date>2015-02-02T16:45:42</date>
+  <millis>1422882942641</millis>
+  <sequence>49</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Baud rate 9600 save as default.</message>
+</record>
+<record>
+  <date>2015-02-02T16:45:42</date>
+  <millis>1422882942641</millis>
+  <sequence>50</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Try to open port COM4, baud 9600, 8N1</message>
+</record>
+<record>
+  <date>2015-02-02T16:45:42</date>
+  <millis>1422882942657</millis>
+  <sequence>51</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>Open port COM4 - Success.</message>
+</record>
+<record>
+  <date>2015-02-02T16:45:44</date>
+  <millis>1422882944829</millis>
+  <sequence>52</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>send:AT+GSLP=5000&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-02-02T16:46:10</date>
+  <millis>1422882970282</millis>
+  <sequence>53</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>DataSender: start "Smart Mode"</message>
+</record>
+<record>
+  <date>2015-02-02T16:46:10</date>
+  <millis>1422882970282</millis>
+  <sequence>54</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>SendToESP: Starting...</message>
+</record>
+<record>
+  <date>2015-02-02T16:46:10</date>
+  <millis>1422882970329</millis>
+  <sequence>55</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>send:AT+GSLP=20000&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2015-02-02T16:46:10</date>
+  <millis>1422882970344</millis>
+  <sequence>56</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>29</thread>
+  <message>recv:A</message>
+</record>
+<record>
+  <date>2015-02-02T16:46:10</date>
+  <millis>1422882970360</millis>
+  <sequence>57</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>29</thread>
+  <message>recv:T+GS</message>
+</record>
+<record>
+  <date>2015-02-02T16:46:10</date>
+  <millis>1422882970360</millis>
+  <sequence>58</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>29</thread>
+  <message>recv:LP=2</message>
+</record>
+<record>
+  <date>2015-02-02T16:46:10</date>
+  <millis>1422882970360</millis>
+  <sequence>59</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>29</thread>
+  <message>recv:000</message>
+</record>
+<record>
+  <date>2015-02-02T16:46:10</date>
+  <millis>1422882970360</millis>
+  <sequence>60</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>29</thread>
+  <message>recv:0</message>
+</record>
+<record>
+  <date>2015-02-02T16:46:10</date>
+  <millis>1422882970391</millis>
+  <sequence>61</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>29</thread>
+  <message>DataSender: Done. Duration = 140 ms</message>
+</record>
+</log>
